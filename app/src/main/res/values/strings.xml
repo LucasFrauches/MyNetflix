@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyNetflix</string>
+    <string name="anime">Anime</string>
+    <string name="fic_o_policial">Ficção Policial</string>
+    <string name="m_dicos">Médicos</string>
+    <string name="minha_lista">Minha Lista</string>
+    <string name="detalhes">Detalhes</string>
+    <string name="lan_amentos">Lançamentos</string>
+    <string name="s_ries">Séries</string>
+    <string name="filmes">Filmes</string>
+</resources>
